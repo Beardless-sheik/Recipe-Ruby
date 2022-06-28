@@ -57,7 +57,7 @@ group :development, :test do
 
   # Add rspec-rails for testing
   gem 'rspec-rails'
-  #Add Shoulda matchers gem to help with model validation in tests
+  # Add Shoulda matchers gem to help with model validation in tests
   gem 'shoulda-matchers', '~> 3.1'
 end
 
